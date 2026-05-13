@@ -1,0 +1,1 @@
+Temporary CLI-created file for connector PR/comment permission probe.
